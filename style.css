@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+li.keylinks {
+    list-style: none;
+    padding: 0.25rem;
+    margin: 0rem;
+}
+li.imagelinks {
+    display: inline;
+    list-style: none;
+}
+p {
+    font-family: "Courier New", Courier, monospace;
+}
